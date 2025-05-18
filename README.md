@@ -1,1 +1,2 @@
 # Restauracja
+zrobic diagram biblioteki
